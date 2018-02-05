@@ -1,0 +1,11 @@
+body{
+    padding-top: 100px;
+}
+
+h2,h1{
+    color: red;
+}
+h3{
+    color: aquamarine;
+    margin-left: 450px
+}
